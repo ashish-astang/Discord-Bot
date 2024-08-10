@@ -150,8 +150,4 @@ If you need any additional help, make sure to read our guides [here](docs/additi
 
 <br>
 
-<h1 align="center"> 🤝 Contributing 🤝 </h1>
 
-- Special thanks to [@Androzz](https://github.com/Androz2091/AtlantaBot) for the [dashboard](https://github.com/Androz2091/AtlantaBot) and his other cool discord bot projects
-- Feel free to [Fork](https://github.com/saiteja-madha/discord-js-bot/fork) this repository, create a feature branch and submit a pull request
-- You can keep track of all the planned features [here](https://github.com/saiteja-madha/discord-js-bot/projects) or make a request for one at our discord
